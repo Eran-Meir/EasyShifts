@@ -18,3 +18,7 @@ If you are not already signed in to your Google account, you are prompted to sig
 
 Note: Authorization information is stored on the file system, so subsequent executions don't prompt for authorization.
 Click Accept. The app is authorized to access your data.
+
+### OAuth 2.0 scope information
+You can use the [Google Sheets API](https://developers.google.com/sheets/api/guides/authorizing) to view the auth access you need.
+For reading and writing data we'll use ```diff auth/spreadsheets``` access
