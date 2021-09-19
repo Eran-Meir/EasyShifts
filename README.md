@@ -7,7 +7,7 @@
 ## Installation
 ### Install the Google client library
 To install the Google client library for Python, run the following command:
-```diff
+```
 pip install --upgrade google-api-python-client google-auth-httplib2 google-auth-oauthlib
 ```
 
@@ -21,4 +21,4 @@ Click Accept. The app is authorized to access your data.
 
 ### OAuth 2.0 scope information
 You can use the [Google Sheets API](https://developers.google.com/sheets/api/guides/authorizing) to view the auth access you need.
-For reading and writing data we'll use ```diff auth/spreadsheets``` access
+For reading and writing data we'll use ```auth/spreadsheets``` access
