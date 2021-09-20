@@ -4,10 +4,16 @@
 ![Empty](https://github.com/Eran-Meir/EasyShifts/blob/main/Empty.jpg)
 ![Options](https://github.com/Eran-Meir/EasyShifts/blob/main/Monthly%20Options.jpg)
 
+## About this project
+### Motivation
+Creating 24/7 shifts is not always an easy task.
+This Python project can both help save time and make people happy too.
+### How it works
+
 
 ## Installation
-Most of this part is taken from Google Sheets API and the credit goes to Google
-Thus, please refer to [Google Sheets API](https://developers.google.com/sheets/api/quickstart/python) if you're struggling with Installation
+Most of this part is taken from Google Sheets API and the credit goes to Google.
+Please refer to [Google Sheets API](https://developers.google.com/sheets/api/quickstart/python) if you're struggling with Installation
 
 ### Install the Google client library
 To install the Google client library for Python, run the following command:
