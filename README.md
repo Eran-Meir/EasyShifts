@@ -5,6 +5,7 @@
 ![Options](https://github.com/Eran-Meir/EasyShifts/blob/main/Monthly%20Options.jpg)
 
 
+Refer to [Google Sheets API](https://developers.google.com/sheets/api/quickstart/python) if you're struggling with Installation
 ## Installation
 ### Install the Google client library
 To install the Google client library for Python, run the following command:
@@ -13,7 +14,7 @@ pip install --upgrade google-api-python-client google-auth-httplib2 google-auth-
 ```
 
 ### First time running
-If this is your first time running the project, it opens a new window prompting you to authorize access to your data:
+If this is your first time running the project, it opens a new window prompting you to authorize access to your data
 
 If you are not already signed in to your Google account, you are prompted to sign in. If you are signed in to multiple Google accounts, you are asked to select one account to use for the authorization.
 
@@ -29,7 +30,6 @@ To run this project, you need the following prerequisites:
 - Enabling the "Google Sheets API".
 - Authorization credentials for a desktop application. To learn how to create credentials for a desktop application, refer to [Create credentials](https://developers.google.com/workspace/guides/create-credentials).
 - A Google account.
-
 
 ### OAuth 2.0 scope information
 You can use the [Google Sheets API](https://developers.google.com/sheets/api/guides/authorizing) to view the auth access you need.
