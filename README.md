@@ -21,8 +21,8 @@ There are certain constraints:
 - Gets data from the relevant Google Sheet and creates a list of ```DayOptions``` objects.
 - Each ```DayOptions``` object holds the people that flagged this day as suitable for them
 - Then team members are assigned to shifts and ```WorkDay``` objects are created, they hold that information
-- First the constraints are provided and then the shifts are balanced as much as possible
-- After the team members were assigned to the shifts that data is written directly to the Google Sheet
+- First the constraints are provided and then the shifts are balanced as much as possible (Currently not balancing weekends)
+- After the team members were assigned to the shifts that data is written directly to the Google Sheet and thats it
 
 ## Installation
 Most of this part is taken from Google Sheets API I only changed tiny bits so the credit for this part goes to Google.
