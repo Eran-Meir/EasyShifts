@@ -5,8 +5,10 @@
 ![Options](https://github.com/Eran-Meir/EasyShifts/blob/main/Monthly%20Options.jpg)
 
 
-Refer to [Google Sheets API](https://developers.google.com/sheets/api/quickstart/python) if you're struggling with Installation
 ## Installation
+Most of this part is taken from Google Sheets API and the credit goes to Google
+Thus, please refer to [Google Sheets API](https://developers.google.com/sheets/api/quickstart/python) if you're struggling with Installation
+
 ### Install the Google client library
 To install the Google client library for Python, run the following command:
 ```
