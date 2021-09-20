@@ -1,5 +1,5 @@
 #  EasyShifts (Python)
-#  Written by Eran Meir    
+##  Written by Eran Meir    
 
 ![Presentation](https://github.com/Eran-Meir/EasyShifts/blob/main/EasyShifts.gif)
 
@@ -18,7 +18,7 @@ There are certain constraints:
 - A team member will not work in the following morning if he has worked in the night before
 
 ```EasyShifts.py``` contains ```main``` function and does the job:
-- Gets data from the relevant Google Sheet and creates a list of ```DayOptions``` objects.
+- Gets data from the [Relevant Google Sheet](https://docs.google.com/spreadsheets/d/1zfobZu4-Od4jCZ-nAjwq9klL_FwPMAgsVky5qRFbIZY/edit#gid=2082132115) and creates a list of ```DayOptions``` objects.
 - Each ```DayOptions``` object holds the people that flagged this day as suitable for them
 - Then team members are assigned to shifts and ```WorkDay``` objects are created, they hold that information
 - First the constraints are provided and then the shifts are balanced as much as possible (Currently not balancing weekends)
