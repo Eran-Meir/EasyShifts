@@ -9,6 +9,7 @@
 Creating 24/7 shifts is not always an easy task.
 
 This Python project can both help saving time while also making people happy!
+
 But how? Well, it simply does the task for you and the shifts are almost equally shared between team members
 
 ### How it works
@@ -18,7 +19,7 @@ There are certain constraints:
 - A team member will not work in the following morning if he has worked in the night before
 
 ## Installation
-Most of this part is taken from Google Sheets API and the credit goes to Google.
+Most of this part is taken from Google Sheets API I only changed tiny bits so the credit for this part goes to Google.
 Please refer to [Google Sheets API](https://developers.google.com/sheets/api/quickstart/python) if you're struggling with Installation
 
 ### Install the Google client library
