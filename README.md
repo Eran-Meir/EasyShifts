@@ -7,9 +7,15 @@
 ## About this project
 ### Motivation
 Creating 24/7 shifts is not always an easy task.
-This Python project can both help save time and make people happy too.
-### How it works
 
+This Python project can both help saving time while also making people happy!
+But how? Well, it simply does the task for you and the shifts are almost equally shared between team members
+
+### How it works
+There are certain constraints:
+- Team members will be assigned only to shifts they flagged as suiteable for them
+- If only one person can work a certain shift then he'll be the one to do it (duty calls!)
+- A team member will not work in the following morning if he has worked in the night before
 
 ## Installation
 Most of this part is taken from Google Sheets API and the credit goes to Google.
