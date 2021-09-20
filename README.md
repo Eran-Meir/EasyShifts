@@ -1,7 +1,8 @@
 #  EasyShifts (Python)
 #  Written by Eran Meir    
 
-![alt text](https://github.com/Eran-Meir/BullseyeAssembly/blob/main/ThirdGuess.jpg)
+![Empty](https://github.com/Eran-Meir/EasyShifts/blob/main/Empty.jpg)
+![Options](https://github.com/Eran-Meir/EasyShifts/blob/main/Monthly%20Options.jpg)
 
 
 ## Installation
