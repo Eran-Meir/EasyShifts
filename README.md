@@ -2,7 +2,7 @@
 #  Written by Eran Meir    
 
 ![Empty](https://github.com/Eran-Meir/EasyShifts/blob/main/Empty.jpg)
-![Options](https://github.com/Eran-Meir/EasyShifts/blob/main/Monthly%20Options.jpg)
+![Presentation](https://github.com/Eran-Meir/EasyShifts/blob/main/EasyShifts.gif)
 
 ## About this project
 ### Motivation
