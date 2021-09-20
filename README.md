@@ -13,6 +13,7 @@ But how? Well, it simply does the task for you and the shifts are almost equally
 
 ### How it works
 Link to the [Google Sheet](https://docs.google.com/spreadsheets/d/1zfobZu4-Od4jCZ-nAjwq9klL_FwPMAgsVky5qRFbIZY/edit#gid=2082132115)
+
 There are certain constraints:
 - Team members will be assigned only to shifts they flagged as suiteable for them
 - If only one person can work a certain shift then he'll be the one to do it (duty calls!)
