@@ -20,6 +20,17 @@ If you are not already signed in to your Google account, you are prompted to sig
 Note: Authorization information is stored on the file system, so subsequent executions don't prompt for authorization.
 Click Accept. The app is authorized to access your data.
 
+### Prerequisites
+To run this project, you need the following prerequisites:
+
+- Python 2.6 or greater.
+- The pip package management tool
+- A Google Cloud Platform project with the API enabled. To create a project and enable an API, refer to: [Create a project and enable the API](https://developers.google.com/workspace/guides/create-project)
+- Enabling the "Google Sheets API".
+- Authorization credentials for a desktop application. To learn how to create credentials for a desktop application, refer to [Create credentials](https://developers.google.com/workspace/guides/create-credentials).
+- A Google account.
+
+
 ### OAuth 2.0 scope information
 You can use the [Google Sheets API](https://developers.google.com/sheets/api/guides/authorizing) to view the auth access you need.
 For reading and writing data we'll use ```auth/spreadsheets``` access
