@@ -1,7 +1,6 @@
 #  EasyShifts (Python)
 #  Written by Eran Meir    
 
-![Empty](https://github.com/Eran-Meir/EasyShifts/blob/main/Empty.jpg)
 ![Presentation](https://github.com/Eran-Meir/EasyShifts/blob/main/EasyShifts.gif)
 
 ## About this project
@@ -17,6 +16,12 @@ There are certain constraints:
 - Team members will be assigned only to shifts they flagged as suiteable for them
 - If only one person can work a certain shift then he'll be the one to do it (duty calls!)
 - A team member will not work in the following morning if he has worked in the night before
+
+```EasyShifts.py``` contains ```main``` function and does the job:
+- Gets data from the relevant Google Sheet and creates ```DayOptions``` objects.
+- Each ```DayOptions``` object holds the people that flagged that day as suitable for them
+- Then ```WorkDay``` objects are created, they hold the team members that were selected to do the shifts that day
+- First the constraints are provided and then the shifts are balanced as much as possible
 
 ## Installation
 Most of this part is taken from Google Sheets API I only changed tiny bits so the credit for this part goes to Google.
